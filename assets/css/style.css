@@ -197,6 +197,7 @@ p{
     }
 }
 
+/*
 @media only screen and (min-width: 641px){
     .navigation{
         float: right;
@@ -239,7 +240,7 @@ p{
     }
 }
 
-@media only screen and (min-width: 769px){
+@media only screen and (min-width: 769px){ */
     .navigation{
         float: right;
         padding-left: 10px;
